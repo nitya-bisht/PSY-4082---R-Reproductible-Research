@@ -11,7 +11,7 @@ For your first R Assignment, complete the questions below. Remember, weekly assi
 
 # Variables, Vectors, Lists, and Data frames
 
-1. Create a vector called score that starts at 1 and contains every 9th number between 1 and 100. 
+1. Create a vector called score that starts at 1 and contains every 9th number between 1 and 100.
 ```{r}
 score <- c(seq(1,100, 9))
 ```
