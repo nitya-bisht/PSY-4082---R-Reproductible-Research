@@ -1,6 +1,6 @@
 ---
 title: "Foundations in R Assignment pt 1"
-author: "Nitya Bisht"
+author: "NITYA BISHT"
 date: "2026-09-24"
 output: html_document
 editor_options: 
